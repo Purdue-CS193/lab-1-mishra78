@@ -19,7 +19,7 @@ Syntax highlighted code block
 - List of things I like in Purdue
 - Lots of bicycle paths to cycle nicely
 - Nice quiet places available to study
-- Lots of trees 
+- Lots of trees
 
 
 1. Numbered
