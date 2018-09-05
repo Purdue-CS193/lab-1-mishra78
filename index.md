@@ -16,8 +16,11 @@ Syntax highlighted code block
 ## Website
 ### Hi 
 
-- Bulleted
-- List
+- List of things I like in Purdue
+- Lots of bicycle paths to cycle nicely
+- Nice quiet places available to study
+- Lots of trees 
+
 
 1. Numbered
 2. List
